@@ -1,6 +1,6 @@
 # unaiIbabe
 
-<h2 align="left">👋 Hi! My name is Unai and I'm a passionate software development student currently studying Multiplatform Application Development (DAM).</h2>
+<h2 align="left">👋 Hi! My name is Unai and I'm a passionate software development. Currently studying Multiplatform Application Development (DAM).</h2>
 
 
 ###
